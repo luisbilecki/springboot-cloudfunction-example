@@ -24,5 +24,5 @@ See more at this [link](https://spring.io/projects/spring-cloud-function#overvie
 
 - Test if a word or sentence is a palindrome using:
 ```bash
-curl localhost:8080/palindrome -H "Content-Type: text/plain" -d "Racecar"
+    curl localhost:8080/palindrome -H "Content-Type: text/plain" -d "Racecar"
 ```
